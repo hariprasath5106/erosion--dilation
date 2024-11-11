@@ -65,7 +65,7 @@ plt.axis('off')
 
 ```
 ### Display the Dilated Image
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4dd5927c-ce34-4eac-973b-88b48a9fc0ec)
 
 
 ## Result
